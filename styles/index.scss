@@ -20,6 +20,7 @@
 
     img {
         width: 100%;
+        display: block;
         height: 28.8rem;
         border-radius: 1rem;
         margin-bottom: 2.4rem;
@@ -34,7 +35,6 @@
 
     &__paragraph {
         font-size: 1.5rem;
-        letter-spacing: 0.188px;
         color: colors.$grayish-blue;
         font-weight: fonts.$regular-weight;
     }
