@@ -11,17 +11,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://d-sisovic.github.io/QR-code]
+- Live Site URL: [https://d-sisovic.github.io/QR-code]
 
 ### Built with
 
 - Semantic HTML5 markup
 - SCSS
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
+
+### Author
+Daniel Sisovic
