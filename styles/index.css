@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Outfit";
-  src: url("../../fonts/Outfit/static/Outfit-Regular.ttf");
+  src: url("../fonts/Outfit/static/Outfit-Regular.ttf");
 }
 * {
   margin: 0px;
@@ -17,7 +17,7 @@ body {
   text-align: center;
   font-style: normal;
   font-family: Outfit;
-  letter-spacing: 0.188px;
+  letter-spacing: 0.2px;
   font-feature-settings: "clig" off, "liga" off;
 }
 
